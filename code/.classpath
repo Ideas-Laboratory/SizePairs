@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="dynamic-map/src"/>
+	<classpathentry kind="src" path="insertion-treemap/src"/>
+	<classpathentry kind="src" path="StableTreemap/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/TreemapComparison/libraries/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/TreemapComparison/libraries/opencsv-3.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
